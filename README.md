@@ -1,61 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saksham Pandey</h1>
-<h3 align="center">A student, gamer and developer from India</h3>
+<h1 align="center">Hi 👋, I'm Saksham Pandey</h1> <h3 align="center">A student and developer from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakshamyep&label=Profile%20views&color=1e3a8a&style=flat" alt="sakshamyep" /> </p>
+🔭 I'm currently working on APIs and Backend stuff
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sakshamyep&label=Profile%20views&color=1e3a8a&style=flat" alt="sakshamyep" /> 
-</p>
+🌱 I'm currently learning Full Stack Web Development
 
-- 🔭 I’m currently working on **APIs and Backend stuff**  
-- 🌱 I’m currently learning **Full Stack Web Development**  
-- 👀 Check out my site **[sakshamyep.me](https://sakshamyep.me)**  
+👀 Check out my site sakshamyep.me
 
----
-
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://www.instagram.com/sakshamyep/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="45"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/sakshamyep" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="45"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@sakshamyep" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sakshamyep@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" height="45" width="45"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/></a>
-</p>
-
-<h3 align="center">🛠️ Tools & Frameworks</h3>
-<p align="center"> 
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamyep&show_icons=true&theme=tokyonight" height="170" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamyep&show_icons=true&layout=compact&theme=tokyonight" height="170" />
-</p>
+<h3 align="center">🌐 Connect with me</h3> <p align="center"> <a href="https://instagram.com/sakshamyep" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/sakshamyep" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://m.youtube.com/@sakshamyep" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/sakshamyep" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="45" width="45"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:sakshamyep@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" height="45" width="45"/> </a> </p>
+<h3 align="center">💻 Programming Languages</h3> <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/></a> </p> <h3 align="center">🛠️ Tools & Frameworks</h3> <p align="center"> <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a> </p>
+<h3 align="center">📊 GitHub Stats</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakshamyep&show_icons=true&theme=tokyonight" height="170" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshamyep&show_icons=true&layout=compact&theme=tokyonight" height="170" /> </p>
