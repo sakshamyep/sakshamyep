@@ -7,7 +7,8 @@
 <p align="center">
   🔭 Currently working on <b>APIs & Backend stuff</b><br>
   🌱 Learning <b>Full Stack Web Development</b><br>
-  👀 Check out my site <a href="https://sakshamyep.me" target="_blank"><b>sakshamyep.me</b></a>
+  👀 Check out my site <a href="https://sakshamyep.me/" target="_blank"><b>sakshamyep.me</b></a>
+  💌 Active project <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
