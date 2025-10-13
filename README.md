@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  🔭 Working on <b>APIs, Automation & Backend Systems</b><br>
-  🌱 Expanding into <b>Full Stack & Cloud Infrastructure</b><br>
-  💡 Exploring <b>AI-powered applications & scalable architectures</b><br>
+  🔭 Working on <b>APIs, New Skills & Backend Systems</b><br>
+  🌱 Expanding into <b>Full Stack Web Dev</b><br>
   🌐 Personal site → <a href="https://sakshamyep.me/" target="_blank"><b>sakshamyep.me</b></a><br>
   🚀 Active project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
