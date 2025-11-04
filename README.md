@@ -8,13 +8,6 @@
   🚀 Small project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamyep&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamyep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamyep&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
