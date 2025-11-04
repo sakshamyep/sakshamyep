@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  🔭 Working on <b>APIs, New Skills & Backend Systems</b><br>
-  🌱 Expanding into <b>Full Stack Web Dev</b><br>
-  🚀 Small active project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
+  🔭 Mastering <b>My Skills</b><br>
+  🌱 Learning <b>Full Stack Web Dev</b><br>
+  🚀 Small project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
