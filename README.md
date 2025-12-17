@@ -7,7 +7,3 @@
   🌱 Learning <b>Full Stack Web Dev</b><br>
   🚀 Small project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamyep&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
