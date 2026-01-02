@@ -5,5 +5,4 @@
 <p align="center">
   🔭 Mastering <b>My Skills</b><br>
   🌱 Learning <b>Full Stack Web Dev</b><br>
-  🚀 Small project → <a href="https://atommusic.tech/" target="_blank"><b>atommusic.tech</b></a>
 </p>
