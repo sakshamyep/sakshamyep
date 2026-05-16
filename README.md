@@ -4,5 +4,4 @@
 
 <p align="center">
   🔭 Mastering <b>My Skills</b><br>
-  🌱 Learning <b>Full Stack Web Dev</b><br>
 </p>
